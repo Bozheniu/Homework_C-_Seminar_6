@@ -24,4 +24,4 @@ x = Math.Round(x, 1);
 
 y = Math.Round(y, 1);
 
-Console.WriteLine($"Пересечение в точке: ({x};{y})");
+Console.WriteLine($"Пересечение двух прямых в точке: ({x};{y})");
